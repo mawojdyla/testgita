@@ -1,0 +1,5 @@
+public void logowanie() {
+	system.out.print.ln("Podaj NAZWĘ użytkownika");
+	system.out.print.ln("Podaj hasło");
+	system.out.print.ln("Kliknij na przycisk zaloguj");
+        }
