@@ -15,3 +15,7 @@ public void logowanieMicrosoft() {
 	system.out.print.ln("Podaj hasło");
 	system.out.print.ln("Kliknij na przycisk zaloguj");
         }
+
+public void przypomnijHasło() {
+	system.out.print.ln("Kliknij na przypomnij hasło");
+        }
